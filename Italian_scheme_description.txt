@@ -1,0 +1,19 @@
+* Italian Scheme (snafu_Italian_scheme_Costantini.csv) compiled by Sabia Costantini (2023)
+
+
+** The Italian scheme is based on the original English scheme (snafu-py/schemes/animals_snafu_scheme.csv).
+
+** All categories featuring in the original animal scheme have been kept, with the exception of “Europe”, “Marsupial”, and “SouthAmerica”. 
+
+** Some categories were added (“Crostaceo”, “Mollusco”, “Montagna”) and others extended (e.g.: Fish, Water, Bird) to be more reflective of the fauna one might encounter in Italy.
+
+
+** Some categories have been relabelled to facilitate categorisation of animals following the official nomenclature. These categories are Bovide (instead of bovine) and Felide (instead of feline).
+
+
+** Several animals have been relocated to their official category (e.g.: gnu, dik-dik, gazelle, and impala were classified as deers (i.e.: cervidae), even though their official category is bovidae). Similar examples can be found for felines. In the original scheme, "leopard" is classified using the subfamily class of "feline", though the official subfamily is pantherinae. The scientific "Family" Felidae (Italian: felide) encompasses both felines and pantherinae. Therefore, this label was used instead to replace the "feline" category label used in the original scheme.
+
+
+** Very infrequent or specific animal names were removed.
+
+** Before using this scheme, please make sure you have replaced accented letters with unaccented letters (e.g.: zebù --> zebu), uppercase letters with lowercase ones, and have removed hyphens (dik-dik --> dikdik).
